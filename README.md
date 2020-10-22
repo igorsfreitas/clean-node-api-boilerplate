@@ -37,7 +37,7 @@ e um ORM (PostgreSQL/SQLite e TypeORM), junto com envio de e-mail (Nodemailer) e
 
 ```bash
 # Baixando o projeto
-git clone https://github.com/marcosvcorsi/clean-blog-api.git
+git clone https://github.com/igorsfreitas/clean-node-api-boilerplate.git
 
 # Acessando a pasta
 $ cd clean-blog-api
